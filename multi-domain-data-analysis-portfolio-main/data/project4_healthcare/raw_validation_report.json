@@ -1,0 +1,17 @@
+{
+  "rows": 1802,
+  "columns": 14,
+  "missing_required_columns": [],
+  "duplicate_patient_ids": 2,
+  "missing_values": {
+    "length_of_stay_days": 1,
+    "treatment_cost_inr": 1,
+    "satisfaction_score": 1
+  },
+  "invalid_age_rows": 0,
+  "invalid_baseline_rows": 0,
+  "invalid_followup_rows": 0,
+  "invalid_stay_rows": 0,
+  "invalid_cost_rows": 0,
+  "invalid_satisfaction_rows": 0
+}

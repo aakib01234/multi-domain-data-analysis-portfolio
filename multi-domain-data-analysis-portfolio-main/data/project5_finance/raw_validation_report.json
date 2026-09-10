@@ -1,0 +1,13 @@
+{
+  "rows": 3912,
+  "columns": 5,
+  "missing_required_columns": [],
+  "duplicate_ticker_dates": 2,
+  "missing_values": {
+    "volume": 1,
+    "close": 2
+  },
+  "invalid_dates": 0,
+  "nonpositive_price_rows": 0,
+  "negative_volume_rows": 0
+}

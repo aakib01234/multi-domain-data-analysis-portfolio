@@ -1,0 +1,17 @@
+{
+  "total_sales": 10035919.4,
+  "total_profit": 2820498.65,
+  "transactions": 2500,
+  "average_transaction_value": 4014.37,
+  "median_transaction_value": 2765.62,
+  "average_rating": 7.6,
+  "overall_profit_margin_pct": 28.1,
+  "best_category": "Electronics",
+  "best_category_sales": 3478248.33,
+  "best_weekday": "Saturday",
+  "peak_hour": 18,
+  "best_sales_day": "2024-02-10",
+  "best_sales_day_value": 181029.56,
+  "quantity_sales_correlation": 0.572,
+  "discount_sales_correlation": -0.115
+}

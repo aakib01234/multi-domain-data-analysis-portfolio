@@ -1,0 +1,10 @@
+{
+  "rows": 1200,
+  "columns": 21,
+  "missing_required_columns": [],
+  "duplicate_student_ids": 0,
+  "missing_values": {},
+  "invalid_score_values": 0,
+  "invalid_attendance_rows": 0,
+  "invalid_study_hours_rows": 0
+}

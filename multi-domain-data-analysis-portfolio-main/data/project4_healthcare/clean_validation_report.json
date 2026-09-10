@@ -1,0 +1,13 @@
+{
+  "rows": 1800,
+  "columns": 19,
+  "missing_required_columns": [],
+  "duplicate_patient_ids": 0,
+  "missing_values": {},
+  "invalid_age_rows": 0,
+  "invalid_baseline_rows": 0,
+  "invalid_followup_rows": 0,
+  "invalid_stay_rows": 0,
+  "invalid_cost_rows": 0,
+  "invalid_satisfaction_rows": 0
+}

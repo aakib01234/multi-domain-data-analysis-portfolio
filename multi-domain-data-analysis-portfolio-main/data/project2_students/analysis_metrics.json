@@ -1,0 +1,16 @@
+{
+  "students": 1200,
+  "overall_average": 66.49,
+  "overall_median": 66.18,
+  "overall_pass_rate_pct": 93.83,
+  "at_risk_students": 321,
+  "at_risk_rate_pct": 26.75,
+  "average_attendance_pct": 81.72,
+  "top_subject": "Computer",
+  "top_subject_average": 69.79,
+  "lowest_subject": "Mathematics",
+  "lowest_subject_average": 62.43,
+  "highest_subject_pass_rate_pct": 99.75,
+  "attendance_score_correlation": 0.454,
+  "study_hours_score_correlation": 0.677
+}

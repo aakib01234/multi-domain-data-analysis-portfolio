@@ -1,0 +1,13 @@
+{
+  "rows": 2502,
+  "columns": 15,
+  "missing_required_columns": [],
+  "duplicate_invoice_ids": 2,
+  "missing_values": {
+    "rating": 4
+  },
+  "invalid_quantity_rows": 0,
+  "invalid_price_rows": 0,
+  "invalid_discount_rows": 0,
+  "invalid_rating_rows": 4
+}

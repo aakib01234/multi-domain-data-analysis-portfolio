@@ -1,0 +1,10 @@
+{
+  "rows": 3910,
+  "columns": 10,
+  "missing_required_columns": [],
+  "duplicate_ticker_dates": 0,
+  "missing_values": {},
+  "invalid_dates": 0,
+  "nonpositive_price_rows": 0,
+  "negative_volume_rows": 0
+}

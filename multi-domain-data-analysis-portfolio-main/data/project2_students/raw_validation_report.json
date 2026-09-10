@@ -1,0 +1,15 @@
+{
+  "rows": 1202,
+  "columns": 15,
+  "missing_required_columns": [],
+  "duplicate_student_ids": 2,
+  "missing_values": {
+    "attendance_pct": 1,
+    "mathematics": 1,
+    "science": 1,
+    "english": 1
+  },
+  "invalid_score_values": 0,
+  "invalid_attendance_rows": 0,
+  "invalid_study_hours_rows": 0
+}

@@ -1,0 +1,23 @@
+{
+  "observations": 6576,
+  "cities": 6,
+  "start_date": "2022-01-01",
+  "end_date": "2024-12-31",
+  "mean_temperature_c": 25.82,
+  "median_temperature_c": 25.8,
+  "total_rainfall_mm": 97416.1,
+  "rainy_days": 1977,
+  "extreme_event_days": 904,
+  "heatwave_days": 439,
+  "heavy_rain_days": 542,
+  "cold_days": 12,
+  "warmest_city": "Chennai",
+  "warmest_city_mean_c": 28.0,
+  "wettest_city": "Chennai",
+  "wettest_city_rainfall_mm": 17488.0,
+  "wettest_observation_date": "2023-11-13",
+  "wettest_observation_city": "Chennai",
+  "max_daily_rainfall_mm": 333.7,
+  "temperature_humidity_correlation": 0.3,
+  "rainfall_humidity_correlation": 0.536
+}

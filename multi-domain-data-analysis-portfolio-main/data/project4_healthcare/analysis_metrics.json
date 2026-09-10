@@ -1,0 +1,16 @@
+{
+  "patients": 1800,
+  "average_age": 55.6,
+  "mean_clinical_improvement": 10.85,
+  "median_clinical_improvement": 10.7,
+  "favourable_outcome_rate_pct": 50.17,
+  "readmission_rate_pct": 11.56,
+  "average_length_of_stay_days": 7.85,
+  "median_treatment_cost_inr": 58577.5,
+  "average_satisfaction": 6.49,
+  "highest_improvement_treatment": "Combined Therapy",
+  "highest_treatment_improvement": 15.07,
+  "highest_improvement_condition": "Diabetes",
+  "cost_improvement_correlation": 0.04,
+  "stay_readmission_correlation": 0.201
+}

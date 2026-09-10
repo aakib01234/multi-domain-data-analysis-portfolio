@@ -1,0 +1,16 @@
+{
+  "rows": 6578,
+  "columns": 9,
+  "missing_required_columns": [],
+  "duplicate_city_dates": 2,
+  "missing_values": {
+    "rainfall_mm": 1,
+    "humidity_pct": 1,
+    "wind_speed_kmh": 1
+  },
+  "invalid_dates": 0,
+  "negative_rainfall_rows": 0,
+  "invalid_humidity_rows": 0,
+  "negative_wind_rows": 0,
+  "invalid_temperature_order_rows": 0
+}
